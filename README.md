@@ -1,76 +1,28 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Hikmat Yahya</h1>
+<h3 align="center">A passionate Backend developer from Jordan</h3>
 
-#                                                                    
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hikmatyahya&label=Profile%20views&color=0e75b6&style=flat" alt="hikmatyahya" /> </p>
 
-<p align="center">
-<a href="" target="blank"><img align="center" src="https://media.licdn.com/dms/image/C4D03AQG7YmldgGN3qA/profile-displayphoto-shrink_800_800/0/1660584634200?e=2147483647&v=beta&t=815ED1uXHO_cKLZX8Ys6XeSxOtt7nfG1eS0ane0CYKM" alt="smadi" height="25" width="25" /></a>
-  
-  
-  
-<a href="https://linkedin.com/in/saud-smadi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="smadi" height="25" width="25" /></a>
-<a href="https://t.me/rootsmadi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="smadi" height="25" width="25" /></a>
-</p>
+- 🌱 I’m currently learning **.NET CORE**
 
-<img align="right" alt="pacino" src="https://l.top4top.io/p_2654odvp31.jpg"/>
-<p align="center">Hello, I'm smadi <\> this is my internet space, feel free to look around!</p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=smadi0x01" alt="maykbrito" /></p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=fffafa&left=true&width=435&lines=%24~+whoami;smadi0x01;%24~++exit;Enjoy+The+Movement!" alt="Typing SVG" /></a>
+- 👨‍💻 All of my projects are available at [https://hikmatyahya.github.io/](https://hikmatyahya.github.io/)
 
+- 💬 Ask me about **Anything**
 
-#                                                                    *Languages and tools*
+- 📫 How to reach me **hikmat.yahya@hotmail.com**
 
-'<img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" alt="C language" height="70" width="70" />
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
-<img src="https://camo.githubusercontent.com/d692e3b8622529be32fbf598f71901854127ae2a64f653b9440d3e4d578ec3e9/68747470733a2f2f7777772e6e6179756b692e696f2f7265732f706167652d69636f6e2f36342f612d66756e64616d656e74616c2d696e74726f64756374696f6e2d746f2d7838362d617373656d626c792d70726f6772616d6d696e672e706e67" alt="asm" width="58" height="58"/>
-<img src="https://camo.githubusercontent.com/017232b055b969e3eb614662e9ef3f26d493002dbbe8cbf21914dec23cb12379/687474703a2f2f6a6f6e2e646568646172692e6f72672f696d616765732f6c6f676f732f626173682e706e67" alt="bash" width="85" height="85"/>
+- 📄 Know about my experiences [https://hatuniversity-my.sharepoint.com/:b:/g/personal/hikmat_shehadi_htu_edu_jo/EcJEDtYxSM9CtCj8XR_XGMsBJnoxvEXSwHEvjwl2IlifOw?e=LBzNJv](https://hatuniversity-my.sharepoint.com/:b:/g/personal/hikmat_shehadi_htu_edu_jo/EcJEDtYxSM9CtCj8XR_XGMsBJnoxvEXSwHEvjwl2IlifOw?e=LBzNJv)
 
+- ⚡ Fun fact **Yes**
 
-# *Software development*
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
-![Sublime Text](https://img.shields.io/badge/-Sublime-e69138?style=for-the-badge&logo=sublime-text&logoColor=fff)
-
-
-# *Operating Systems*
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-DC143C?style=for-the-badge&logo=debian&logoColor=white)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)
-
-
-# *Hosting/SaaS*
-
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white)
-
-
-#                                                                     *STATS*
-
-![smadi0x86 github stats](https://github-readme-stats.vercel.app/api?username=smadi0x86&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=000000&hide=issues&count_private=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smadi0x86&layout=compact&text_color=daf7dc&bg_color=000000)](https://github.com/smadi0x086/github-readme-stats)
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<img src="https://github.com/sh1nine96/sh1nine96/blob/output/github-contribution-grid-snake.svg">
+<a href="https://twitter.com/hikmatyahya96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hikmatyahya96" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hikmat-yahya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hikmat-yahya" height="30" width="40" /></a>
+<a href="https://instagram.com/hikmat.yahya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hikmat.yahya" height="30" width="40" /></a>
 </p>
 
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>
 
-<!--
-**HikmatYahya/Hikmatyahya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hikmatyahya&show_icons=true&locale=en&layout=compact" alt="hikmatyahya" /></p>
