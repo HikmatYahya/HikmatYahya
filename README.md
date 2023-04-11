@@ -3,7 +3,10 @@
 #                                                                    
 
 <p align="center">
-<a href="https://medium.com/@smadixd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="smadi" height="25" width="25" /></a>
+<a href="" target="blank"><img align="center" src="https://media.licdn.com/dms/image/C4D03AQG7YmldgGN3qA/profile-displayphoto-shrink_800_800/0/1660584634200?e=2147483647&v=beta&t=815ED1uXHO_cKLZX8Ys6XeSxOtt7nfG1eS0ane0CYKM" alt="smadi" height="25" width="25" /></a>
+  
+  
+  
 <a href="https://linkedin.com/in/saud-smadi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="smadi" height="25" width="25" /></a>
 <a href="https://t.me/rootsmadi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="smadi" height="25" width="25" /></a>
 </p>
