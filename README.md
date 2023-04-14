@@ -37,7 +37,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hikmatyahya&show_icons=true&locale=en" alt="hikmatyahya" /></p>
 
-<p<p align="left">
+<p align="left">
 <img src="https://github.com/sh1nine96/sh1nine96/blob/output/github-contribution-grid-snake.svg">
 </p>
 
