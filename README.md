@@ -37,4 +37,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hikmatyahya&show_icons=true&locale=en" alt="hikmatyahya" /></p>
 
-<p><img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs?username=hikmatyahya&show_icons=true&locale=en&layout=compac](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)t" alt="hikmatyahya" /></p>
+<p<p align="left">
+<img src="https://github.com/sh1nine96/sh1nine96/blob/output/github-contribution-grid-snake.svg">
+</p>
+
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</p>
